@@ -56,3 +56,16 @@ a{
 li{
     padding-bottom: 5px;
 }
+
+@media screen and (max-width: 735px) {
+    .container {
+        display: block;
+        margin: 50px 40px;
+     
+    }
+
+    section.contac-info {
+        padding-top: 5%;
+    }
+    
+}
