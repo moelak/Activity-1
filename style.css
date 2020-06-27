@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+      background-color: #EFEEE7;
+  }
+
+h1{
+  font-size: 28px;
+  text-align: center; 
+  color: #EEEEEE ; 
+
+}
+.bio-header{
+    background-color:#333333 ;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    margin: 50px 40px;
+
+
+}
+
+section{
+    flex-basis:auto;
+}
+p.about {
+    position: relative;
+    top: 10%;
+    width: auto;
+    padding: 20px;
+    
+}
+
+h2 {
+    padding-bottom: 20px;
+}
+
+section.contac-info {
+    padding-left: 5%;
+}
+
+p{
+    font-size: 18px;
+    color: #615646;
+}
+
+a{
+    color: #D63672;
+}
+
+li{
+    padding-bottom: 5px;
+}
